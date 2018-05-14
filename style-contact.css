@@ -294,3 +294,26 @@ input[type="email"] {
 .linkedin:hover {
 	background-color: #0e76a8;
 }
+
+.contact-location {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: space-between;
+	text-align: center;
+	padding-top: 71px;	
+}
+
+.californiya {
+	width: 368px;
+	height: 368px;
+	border: 1px solid #9c9c9c;;
+}
+
+.contact-location img {
+	text-align: center;
+	margin-top: 48px;
+	margin-bottom: 34px;
+}
